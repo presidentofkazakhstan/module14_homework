@@ -1,0 +1,7 @@
+C:\Users\Windows10\source\repos\module14_homework\module14_homework\bin\Debug\module14_homework.exe.config
+C:\Users\Windows10\source\repos\module14_homework\module14_homework\bin\Debug\module14_homework.exe
+C:\Users\Windows10\source\repos\module14_homework\module14_homework\bin\Debug\module14_homework.pdb
+C:\Users\Windows10\source\repos\module14_homework\module14_homework\obj\Debug\module14_homework.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\module14_homework\module14_homework\obj\Debug\module14_homework.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\module14_homework\module14_homework\obj\Debug\module14_homework.exe
+C:\Users\Windows10\source\repos\module14_homework\module14_homework\obj\Debug\module14_homework.pdb
